@@ -1,2 +1,2 @@
-# OnlineJudge
-My practice for algorithms
+# OJCode
+My code for several OJs
