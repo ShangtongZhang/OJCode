@@ -23,10 +23,10 @@ public:
 };
 
 int main() {
-//    std::ifstream in("in.txt");
-//    std::cin.rdbuf(in.rdbuf());
-//    std::ofstream out("out.txt");
-//    std::cout.rdbuf(out.rdbuf());
+    std::ifstream in("in.txt");
+    std::cin.rdbuf(in.rdbuf());
+    std::ofstream out("out.txt");
+    std::cout.rdbuf(out.rdbuf());
 
     int nCase;
     std::cin >> nCase;
